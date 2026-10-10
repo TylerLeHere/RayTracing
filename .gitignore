@@ -6,3 +6,4 @@ raytracer-release
 .DS_Store
 build-release/
 *.ppm
+.vscode/
