@@ -1,0 +1,8 @@
+# Build output
+build/
+raytracer
+raytracer-release
+*.dSYM/
+.DS_Store
+build-release/
+*.ppm
